@@ -1,5 +1,11 @@
 (function(){
     'use strict';
     var main,
-        win = $(window);
+        nowy2 = 'dupa2',
+        win = $((window)),
+        nowy = 'dupa';
+
+    this.dupa = function (){
+
+    };
 }());
