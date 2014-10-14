@@ -3,7 +3,7 @@
     var main,
         nowy2 = 'dupa2',
         win = $((window)),
-        nowy = 'dupa';
+        nowy = 'dupa2';
 
     this.dupa = function (){
 
